@@ -6,4 +6,4 @@ menggunakan modul
 3.sensor kelembapan tanah
 4.arduiuno
 5.niat 
-sourcode ini sudah saya kalibrasi denganalat yang saya beli, untuk yang ingin mencoba jangan lupa untuk kalibrasi dikarenakan setiap alat selalu berbeda
+sourcode ini sudah saya kalibrasi dengan alat yang saya beli, untuk yang ingin mencoba jangan lupa untuk kalibrasi dikarenakan setiap alat selalu berbeda
